@@ -2,11 +2,12 @@
 
 #### Software Developer | Product Engineer | Devops Engineer
 
-I love building softwares, automating my workflows. <br>
-I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices.
-I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. 
+I love building software and automating my workflows. <br>
+I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. I'm fun to work with, I always like to learn new things from others as much as help others solve their problems.
 
-I'm open to collaborate on interesting projects.
+I'm open to collaborating on interesting projects.
+
+
 
 <p align="center"> Lets Connect :handshake:</p>
 <p align="center"><a href="https://twitter.com/shubhdgaikwad"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shubham-gaikwad-b90181b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/shubh.gaikwad/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
